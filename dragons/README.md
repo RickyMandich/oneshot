@@ -12,12 +12,12 @@
     - [ ] scheda
     - [ ] incantesimi e abilità
 - Guerriero Campione 3 (Astrid)
-    - [ ] scheda
+    - [X] scheda
     - [ ] incantesimi e abilità
 - Ranger Cacciatore 3 (Gamba di pesce)
     - [ ] scheda
     - [ ] incantesimi e abilità
 - scheda generica
     - [X] background
-    - [ ] warlock
+    - [X] warlock
 - trama
