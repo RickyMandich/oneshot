@@ -1,5 +1,6 @@
 - Druido 2 (Hiccup)
-    - [X] scheda
+    - [-] scheda
+        - manca personalizzazione eldritch blast
     - [ ] incantesimi e abilità
 - Barbaro Berserker 3 (Moccicoso)
     - [ ] scheda
