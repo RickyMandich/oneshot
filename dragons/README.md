@@ -3,10 +3,7 @@
         - manca personalizzazione eldritch blast
     - [ ] incantesimi e abilità
 - Barbaro Berserker 3 (Moccicoso)
-    - [ ] scheda
-    - [ ] incantesimi e abilità
-- Barbaro Berserker 3 (Moccicoso)
-    - [ ] scheda
+    - [X] scheda
     - [ ] incantesimi e abilità
 - Barbaro Magia Selvaggia 3 (gemelli)
     - [ ] scheda
