@@ -6,7 +6,7 @@
     - [X] scheda
     - [ ] incantesimi e abilità
 - Barbaro Magia Selvaggia 3 (gemelli)
-    - [ ] scheda
+    - [X] scheda
     - [ ] incantesimi e abilità
 - Guerriero Campione 3 (Astrid)
     - [X] scheda
