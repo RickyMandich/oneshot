@@ -13,11 +13,11 @@
     - dettagli
         - [X] abilità
         - [X] incantesimi
-- [ ] Druido 2 (Hiccup)
+- [X] Druido 2 (Hiccup)
     - [X] scheda
     - dettagli
-        - [ ] abilità
-        - [ ] incantesimi
+        - [X] abilità
+        - [X] incantesimi
 - [ ] Guerriero Campione 3 (Astrid)
     - [X] scheda
     - dettagli
