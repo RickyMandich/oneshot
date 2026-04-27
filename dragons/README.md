@@ -1,28 +1,33 @@
-- Druido 2 (Hiccup)
+- [X] Barbaro Berserker 3 (Moccicoso)
     - [X] scheda
     - dettagli
-        - [ ] incantesimi
-        - [ ] abilità
-- Barbaro Berserker 3 (Moccicoso)
-    - [X] scheda
-    - dettagli
-        - [X] incantesimi
         - [X] abilità
-- Barbaro Magia Selvaggia 3 (gemelli)
+        - [X] incantesimi
+- [ ] Barbaro Magia Selvaggia (gas) 3 (gemelli)
     - [X] scheda
     - dettagli
+        - [X] abilità
         - [ ] incantesimi
-        - [ ] abilità
-- Guerriero Campione 3 (Astrid)
+- [ ] Barbaro Magia Selvaggia (scintilla) 3 (gemelli)
     - [X] scheda
     - dettagli
-        - [ ] incantesimi
         - [ ] abilità
-- Ranger Cacciatore 3 (Gamba di pesce)
+        - [ ] incantesimi
+- [ ] Druido 2 (Hiccup)
     - [X] scheda
     - dettagli
-        - [ ] incantesimi
         - [ ] abilità
+        - [ ] incantesimi
+- [ ] Guerriero Campione 3 (Astrid)
+    - [X] scheda
+    - dettagli
+        - [ ] abilità
+        - [ ] incantesimi
+- [ ] Ranger Cacciatore 3 (Gamba di pesce)
+    - [X] scheda
+    - dettagli
+        - [ ] abilità
+        - [ ] incantesimi
 - scheda generica
     - [X] background
     - [X] warlock
