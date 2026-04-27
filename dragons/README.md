@@ -1,6 +1,5 @@
 - Druido 2 (Hiccup)
-    - [-] scheda
-        - manca personalizzazione eldritch blast
+    - [X] scheda
     - [ ] incantesimi e abilità
 - Barbaro Berserker 3 (Moccicoso)
     - [X] scheda
@@ -12,7 +11,7 @@
     - [X] scheda
     - [ ] incantesimi e abilità
 - Ranger Cacciatore 3 (Gamba di pesce)
-    - [ ] scheda
+    - [X] scheda
     - [ ] incantesimi e abilità
 - scheda generica
     - [X] background
