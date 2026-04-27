@@ -7,7 +7,7 @@
     - [X] scheda
     - dettagli
         - [X] incantesimi
-        - [ ] abilità
+        - [X] abilità
 - Barbaro Magia Selvaggia 3 (gemelli)
     - [X] scheda
     - dettagli
