@@ -4,7 +4,7 @@
 >aggiungi il tuo bonus di `Costituzione` alla tua classe armatura
 >### Soffio del Draghetto
 >Puoi attingere all’arma a soffio del tuo patrono. Possiedi una riserva di d6 che puoi spendere per esalare questo soffio. Il numero di dadi nella riserva è pari a 2.
->Come azione bonus, puoi esalare quest’arma a soffio in un’area, spendendo dadi dalla riserva.Tira i dadi spesi, sommali e infliggi quel totale di danni a ogni creatura nell’area. L'area di questo attacco è una linea di 1.5 m x 9 m e i danni sono da veleno, se il gas esalato incontra una scintilla di qualsiasi tipo esplode facendo 3d6 di danno in un raggio di 4.5m.
+>Come azione bonus, puoi esalare quest’arma a soffio in un’area, spendendo dadi dalla riserva.Tira i dadi spesi, sommali e infliggi quel totale di danni a ogni creatura nell’area. L'area di questo attacco è una linea di 1.5 m x 9 m e i danni sono da fulmine.
 >Recuperi tutti i dadi spesi nella riserva quando completi un riposo lungo.
 >### Ira
 >In battaglia, un barbaro combatte animato da ferocia primordiale. Nel suo turno, può entrare in ira con un’azione bonus. Finché è in ira, ottiene i seguenti benefici, se non indossa un'armatura pesante:
@@ -88,7 +88,7 @@
 >Finché l'incantesimo non termina, una creatura consenziente toccata dall'incantatore è protetta da tutte le creature con origini draconiche.
 >La protezione conferisce vari benefici. Le creature di quel tipo subiscono svantaggio ai tiri per colpire contro il bersaglio. Inoltre il bersaglio non può essere affascinato, posseduto o spaventato da una creatura di quel tipo. Se il bersaglio è già affascinato, posseduto o spaventato dispone vantaggio al nuovo tiro salvezza contro l'effetto rilevante.
 >## trucchetti
->### Raggio Velenoso
+>### Scoppio improvviso
 >*Trucchetto, Invocazione*
 >
 >- **Tempo di lancio:** 1 azione
@@ -96,7 +96,7 @@
 >- **Componenti:** V, S
 >- **Durata:** Istantanea
 >
->Una folata di gas velenoso sfreccia verso una creatura entro gittata. L'incantatore effettua un attacco a distanza con questo incantesimo contro il bersaglio. Se lo colpisce, il bersaglio subisce 1d10 danni da veleno.
+>Un lampo di luce sfreccia verso una creatura entro gittata. L'incantatore effettua un attacco a distanza con questo incantesimo contro il bersaglio. Se lo colpisce, il lampo di luce genera una piccola esplosione a contatto e il bersaglio subisce 1d10 danni da fuoco.
 >### Prestidigitazione
 >*Trucchetto, Trasmutazione*
 >

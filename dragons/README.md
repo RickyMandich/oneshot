@@ -3,16 +3,16 @@
     - dettagli
         - [X] abilità
         - [X] incantesimi
-- [ ] Barbaro Magia Selvaggia (gas) 3 (gemelli)
+- [X] Barbaro Magia Selvaggia (gas) 3 (gemelli)
     - [X] scheda
     - dettagli
         - [X] abilità
-        - [ ] incantesimi
-- [ ] Barbaro Magia Selvaggia (scintilla) 3 (gemelli)
+        - [X] incantesimi
+- [X] Barbaro Magia Selvaggia (scintilla) 3 (gemelli)
     - [X] scheda
     - dettagli
-        - [ ] abilità
-        - [ ] incantesimi
+        - [X] abilità
+        - [X] incantesimi
 - [ ] Druido 2 (Hiccup)
     - [X] scheda
     - dettagli
