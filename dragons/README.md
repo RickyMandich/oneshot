@@ -1,18 +1,28 @@
 - Druido 2 (Hiccup)
     - [X] scheda
-    - [ ] incantesimi e abilità
+    - dettagli
+        - [ ] incantesimi
+        - [ ] abilità
 - Barbaro Berserker 3 (Moccicoso)
     - [X] scheda
-    - [ ] incantesimi e abilità
+    - dettagli
+        - [X] incantesimi
+        - [ ] abilità
 - Barbaro Magia Selvaggia 3 (gemelli)
     - [X] scheda
-    - [ ] incantesimi e abilità
+    - dettagli
+        - [ ] incantesimi
+        - [ ] abilità
 - Guerriero Campione 3 (Astrid)
     - [X] scheda
-    - [ ] incantesimi e abilità
+    - dettagli
+        - [ ] incantesimi
+        - [ ] abilità
 - Ranger Cacciatore 3 (Gamba di pesce)
     - [X] scheda
-    - [ ] incantesimi e abilità
+    - dettagli
+        - [ ] incantesimi
+        - [ ] abilità
 - scheda generica
     - [X] background
     - [X] warlock
