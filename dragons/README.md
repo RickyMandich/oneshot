@@ -18,16 +18,16 @@
     - dettagli
         - [X] abilità
         - [X] incantesimi
-- [ ] Guerriero Campione 3 (Astrid)
+- [X] Guerriero Campione 3 (Astrid)
     - [X] scheda
     - dettagli
-        - [ ] abilità
-        - [ ] incantesimi
-- [ ] Ranger Cacciatore 3 (Gamba di pesce)
+        - [X] abilità
+        - [X] incantesimi
+- [X] Ranger Cacciatore 3 (Gamba di pesce)
     - [X] scheda
     - dettagli
-        - [ ] abilità
-        - [ ] incantesimi
+        - [X] abilità
+        - [X] incantesimi
 - scheda generica
     - [X] background
     - [X] warlock
