@@ -32,3 +32,6 @@
     - [X] background
     - [X] warlock
 - trama
+    - i pg sono in prigione per aver collaborato con i draghi (ora imprigionati anch'essi
+    - il villaggio è sotto attacco di un gruppo di vikinghi criminali esiliati
+    - ai pg viene offerta la grazia se salvano il villaggio
